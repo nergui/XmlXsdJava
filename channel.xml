@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+	<header>
+		<OrderHeader>
+			<TradingPartnerId>20</TradingPartnerId>
+			<PurchaseOrderNumber>21</PurchaseOrderNumber>
+			<PurchaseOrderDate>Oct 5, 2014</PurchaseOrderDate>
+		</OrderHeader>
+	</header>
+	<LineItems>
+		<LineItem>
+				<OrderLine>
+					<LineSequenceNumber>31</LineSequenceNumber>
+					<EAN>e1</EAN>
+					<OrderQtyx>2</OrderQtyx>
+				</OrderLine>
+		</LineItem>
+		<LineItem>
+				<OrderLine>
+					<LineSequenceNumber>32</LineSequenceNumber>
+					<EAN>e2</EAN>
+					<OrderQtyx>2</OrderQtyx>
+				</OrderLine>
+		</LineItem>
+		<LineItem>
+				<OrderLine>
+					<LineSequenceNumber>33</LineSequenceNumber>
+					<EAN>e3</EAN>
+					<OrderQtyx>3</OrderQtyx>
+				</OrderLine>
+		</LineItem>
+	</LineItems>
+</order>
